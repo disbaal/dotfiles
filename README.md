@@ -24,5 +24,10 @@ https://fishshell.com/
 ## Setup dev
 
 1. Install rust `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
-2. 
 
+
+## Install Fonts
+
+1. Install pragmata pro - http://files.catbox.moe/3nh2tk.zip (sha256sums=('5a73549e4349ea914de7eabdfe264405aec23c8c281bdd644b6ece34790757da' '71a14f207ca21d1ce2b168ce974341e54792e99036599af4582530b1277441f6'))
+2. Install Operator Mono
+3. 
