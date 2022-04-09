@@ -29,5 +29,5 @@ https://fishshell.com/
 ## Install Fonts
 
 1. Install pragmata pro - http://files.catbox.moe/3nh2tk.zip (sha256sums=('5a73549e4349ea914de7eabdfe264405aec23c8c281bdd644b6ece34790757da' '71a14f207ca21d1ce2b168ce974341e54792e99036599af4582530b1277441f6'))
-2. Install Operator Mono
-3. 
+2. Install Operator Mono: download Fonts
+3. Build Operator Mono + Ligatures: https://github.com/kiliman/operator-mono-lig
